@@ -1,0 +1,23 @@
+{
+  "name": "caps-sns-sqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razan-am/caps-sns-sqs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razan-am/caps-sns-sqs/issues"
+  },
+  "homepage": "https://github.com/Razan-am/caps-sns-sqs#readme",
+  "dependencies": {
+    "aws-sdk": "^2.980.0"
+  }
+}
